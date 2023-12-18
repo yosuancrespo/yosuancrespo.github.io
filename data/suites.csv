@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Dec 18 01:30:14 CET 2023","Mon Dec 18 01:30:17 CET 2023","2244","","AllureReports.Tests","","AllureReports.Tests","checkFiltersForm","checkFiltersForm()","Check entry fields, checkboxes, minimum and maximum values, Amenities checkboxes, “Clear all” is functional, check buttons without clicking 'Apply'"
-"passed","Mon Dec 18 01:29:45 CET 2023","Mon Dec 18 01:30:14 CET 2023","29573","","AllureReports.Tests","","AllureReports.Tests","checkListingsPage","checkListingsPage()","Check that the 'All listings' page (https://kamil-demo.alpinizm.uz/all-listings) has the same amount of listings as the 'All' label"
