@@ -1,0 +1,1 @@
+[{"uid":"61ab45676312d4a5","name":"checkListingsPage()","time":{"start":1702859385144,"stop":1702859414717,"duration":29573},"status":"passed","severity":"normal"},{"uid":"ac2d3b782c41baa5","name":"checkFiltersForm()","time":{"start":1702859414769,"stop":1702859417013,"duration":2244},"status":"passed","severity":"normal"}]
